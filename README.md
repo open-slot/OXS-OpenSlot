@@ -1,15 +1,21 @@
 # OXS - OpenSlot
 A Tools For Hack Slot Online
 
-OXSlot adalah aplikasi pembantu player dalam bermain slot online
+OXSlot Open Slot adalah aplikasi pembantu player dalam bermain slot online
 untuk meningkatkan winrate permainan sampai dengan 80%
+
+Note : TOOLS INI HANYA BUATAN SAYA OXS-SLOT, JIKA ANDA SESEORANG YANG MENGKLAIMNYA DIMANAPUN TERUTAMA YOUTUBE , ANDA CARI MASALAH.
+HARGAI CREATOR ASLI PEMBUAT SCRIPT. JIKA BANYAK USER GOBLOK SOK TAU TENTANG CODING ATAU KLAIM INI SCRIPT MEREKA, ANDA SAMPAH!
+SAYA AKAN MENUTUP LAYANAN OXS-SLOT.
+
+OPEN DONASI SILAHKAN JAPRI DI TELEGRAM @BYTEWRITTER
 
 ## Feature
 > Bypass IP Encrypt
 
 > Inject Game Slot Online
 
-## Info Game Support
+## Daftar Game Slot Online
 - Pragmatic Play : Bonanza | Gate Of Olympus | Aztec Gems | Joker Jewels
 - MPO Game : Nusantara Fortune | Naga's Blessing | National Treasure
 - Joker Gaming} : Pharaoh Tomb | Bounty Hunter | Caishen | Shaolin
@@ -20,6 +26,7 @@ untuk meningkatkan winrate permainan sampai dengan 80%
 
 # Tutorial
 ![Tutorial](https://raw.githubusercontent.com/open-slot/OXS-OpenSlot/main/openslot.png)
+
 Aplikasi ini saya buat hanya sekedar sebagai pembantu
 bukan di jadikan patokan bermain slot online.
 
@@ -50,4 +57,15 @@ untuk ganti akses login kalian menggunakan script ini.
 
 Note : Jika anda melihat log "You Win" , berarti inject script berhasil pada putaran itu.
 
+# INSTALL SCRIPT !
+Gunakan PC/Komputer + Internet Cepat.
+1. Install Python di PC
+2. Copy Script ke folder kesukaan kalian
+3. Buka script : "python openslot.py"
+4. Ikuti tutorial dalam script
+5. Selesai
 
+###Library yang di butuhkan
+1. STY : ketik "pip install sty"
+
+&copy; 2021 OXS Open Slot
