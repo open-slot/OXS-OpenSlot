@@ -61,7 +61,7 @@ Note : Jika anda melihat log "You Win" , berarti inject script berhasil pada put
 Gunakan PC/Komputer + Internet Cepat.
 1. Install Python di PC
 2. Copy Script ke folder kesukaan kalian
-3. Buka script : "python openslot.py"
+3. Buka script : "python oxs-openslot.py"
 4. Ikuti tutorial dalam script
 5. Selesai
 
