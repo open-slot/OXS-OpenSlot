@@ -1,15 +1,15 @@
-# OXS-OpenSlot
-A Tools For Hack Slot Online
 # OXS - OpenSlot
+A Tools For Hack Slot Online
 
 OXSlot adalah aplikasi pembantu player dalam bermain slot online
 untuk meningkatkan winrate permainan sampai dengan 80%
 
 ## Feature
-> Bypass IP Encrypt Auto On
-> Inject Game Auto On
+> Bypass IP Encrypt
+
+> Inject Game Slot Online
+
 ## Info Game Support
-+ Support Game >
 - Pragmatic Play : Bonanza | Gate Of Olympus | Aztec Gems | Joker Jewels
 - MPO Game : Nusantara Fortune | Naga's Blessing | National Treasure
 - Joker Gaming} : Pharaoh Tomb | Bounty Hunter | Caishen | Shaolin
@@ -19,6 +19,7 @@ untuk meningkatkan winrate permainan sampai dengan 80%
 - Habanero : Koi Gate | Panda Panda | Fa Cai Shen Deluxe
 
 # Tutorial
+![Tutorial](https://raw.githubusercontent.com/open-slot/OXS-OpenSlot/main/openslot.png)
 Aplikasi ini saya buat hanya sekedar sebagai pembantu
 bukan di jadikan patokan bermain slot online.
 
@@ -46,3 +47,7 @@ untuk ganti akses login kalian menggunakan script ini.
 
 ### Screenshot
 ![Tutorial](https://raw.githubusercontent.com/open-slot/OXS-OpenSlot/main/tutoroxs.png)
+
+Note : Jika anda melihat log "You Win" , berarti inject script berhasil pada putaran itu.
+
+
