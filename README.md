@@ -35,7 +35,7 @@ mari sama-sama membantu dengan mendaftar di refferal saya
 untuk ganti akses login kalian menggunakan script ini.
 
 ## Cara Daftar OXSlot
-1. Copy dan buka link [Daftar ID Disini](https://bit.ly/daftarslotonlineindonesia)
+1. Copy dan buka link [Daftar ID Disini](https://bit.ly/daftarslotonlineid)
 2. Silahkan daftar menggunakan ref saya
 3. ID yang terdaftar akan di check
 4. Jika sudah mendaftar sesuai tutor, silahkan
