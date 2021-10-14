@@ -65,7 +65,7 @@ Gunakan PC/Komputer + Internet Cepat.
 4. Ikuti tutorial dalam script
 5. Selesai
 
-###Library yang di butuhkan
+### Library yang di butuhkan
 1. STY : ketik "pip install sty"
 
 &copy; 2021 OXS Open Slot
